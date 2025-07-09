@@ -29,6 +29,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [JSON to TypeScript](https://quicktype.io/typescript) - Instantly generate TypeScript interfaces from JSON.
+* [JWT.io](https://jwt.io/) - JSON Web Token (JWT) Debugger
 * [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - Convert spreadsheet data into JSON, XML, SQL and more
 * [QuickChart](https://quickchart.io/sandbox) - API for generating charts and visualizations via URL
 
