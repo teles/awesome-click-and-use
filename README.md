@@ -94,6 +94,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 
 - [Convertio](https://convertio.co/pt/) - File conversion, including CSV, JSON, XML, and more
 - [Emojipedia](https://emojipedia.org/) - Emojis list for copy and paste
+- [markdown-to-ast (textlint)](https://textlint.org/markdown-to-ast/example/) - Convert Markdown into an AST (Abstract Syntax Tree); useful for programmatic analysis, validation, or transformation of Markdown documents.
 - [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
 
 ## Web Development Utilities
