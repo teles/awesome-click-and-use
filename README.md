@@ -40,6 +40,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 
 - [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
 - [Excalidraw](https://excalidraw.com/) - Create sketch hand-drawn-like diagrams
+- [FossFLOW](https://stan-smith.github.io/FossFLOW/) - Create isometric diagrams and illustrations in the browser; an open-source isometric diagramming tool
 - [GitDiagram](https://gitdiagram.com/) - Generate visual diagrams to represent Git branches and commit history.
 - [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
 - [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
