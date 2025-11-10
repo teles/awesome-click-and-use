@@ -1,0 +1,2427 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "source": "local:/home/runner/work/awesome-click-and-use/awesome-click-and-use/README.md",
+    "generatedAt": "2025-11-10T12:47:45.840Z",
+    "fieldWeights": {
+      "title": 2,
+      "description": 1,
+      "tags": 1.5
+    }
+  },
+  "stats": {
+    "docs": 61,
+    "terms": 263
+  },
+  "docs": {
+    "chatgpt": {
+      "title": "ChatGPT",
+      "url": "https://chat.openai.com/chat",
+      "sectionId": "artificial-intelligence"
+    },
+    "gitingest": {
+      "title": "GitIngest",
+      "url": "https://gitingest.com/",
+      "sectionId": "artificial-intelligence"
+    },
+    "notebooklm": {
+      "title": "NotebookLM",
+      "url": "https://notebooklm.google.com/",
+      "sectionId": "artificial-intelligence"
+    },
+    "color-designer": {
+      "title": "Color Designer",
+      "url": "https://colordesigner.io/",
+      "sectionId": "colors"
+    },
+    "colors-stacks": {
+      "title": "Colors stacks",
+      "url": "https://lokeshdhakar.com/projects/color-stacks/",
+      "sectionId": "colors"
+    },
+    "kigen-color": {
+      "title": "Kigen Color",
+      "url": "https://kigen.design/color",
+      "sectionId": "colors"
+    },
+    "tailwind-css-color-generator": {
+      "title": "Tailwind CSS Color Generator",
+      "url": "https://uicolors.app/create",
+      "sectionId": "colors"
+    },
+    "beautiful-css-box-shadow-examples": {
+      "title": "Beautiful CSS box-shadow examples",
+      "url": "https://getcssscan.com/css-box-shadow-examples",
+      "sectionId": "css-to-copy"
+    },
+    "clippy": {
+      "title": "Clippy",
+      "url": "https://bennettfeely.com/clippy/",
+      "sectionId": "css-to-copy"
+    },
+    "css-loaders": {
+      "title": "CSS Loaders",
+      "url": "https://css-loaders.com/classic/",
+      "sectionId": "css-to-copy"
+    },
+    "fancy-border-radius": {
+      "title": "Fancy Border Radius",
+      "url": "https://9elements.github.io/fancy-border-radius/",
+      "sectionId": "css-to-copy"
+    },
+    "neumorphism-io": {
+      "title": "Neumorphism.io",
+      "url": "https://neumorphism.io/#e0e0e0",
+      "sectionId": "css-to-copy"
+    },
+    "csv-to-json": {
+      "title": "CSV to JSON",
+      "url": "https://csvjson.com/",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "diffchecker": {
+      "title": "DiffChecker",
+      "url": "https://www.diffchecker.com/",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "json-crack": {
+      "title": "JSON Crack",
+      "url": "https://jsoncrack.com/",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "json-to-csv": {
+      "title": "JSON to CSV",
+      "url": "https://csvjson.com/json2csv",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "json-to-typescript": {
+      "title": "JSON to TypeScript",
+      "url": "https://quicktype.io/typescript",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "jwt-io": {
+      "title": "JWT.io",
+      "url": "https://jwt.io/",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "mr-data-converter": {
+      "title": "Mr. Data Converter",
+      "url": "https://shancarter.github.io/mr-data-converter/",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "quickchart": {
+      "title": "QuickChart",
+      "url": "https://quickchart.io/sandbox",
+      "sectionId": "data-transform-and-visualization"
+    },
+    "dbdiagram-io": {
+      "title": "dbdiagram.io",
+      "url": "https://dbdiagram.io/d",
+      "sectionId": "diagrams"
+    },
+    "excalidraw": {
+      "title": "Excalidraw",
+      "url": "https://excalidraw.com/",
+      "sectionId": "diagrams"
+    },
+    "fossflow": {
+      "title": "FossFLOW",
+      "url": "https://stan-smith.github.io/FossFLOW/",
+      "sectionId": "diagrams"
+    },
+    "gitdiagram": {
+      "title": "GitDiagram",
+      "url": "https://gitdiagram.com/",
+      "sectionId": "diagrams"
+    },
+    "markmap": {
+      "title": "Markmap",
+      "url": "https://markmap.js.org/repl",
+      "sectionId": "diagrams"
+    },
+    "mermaid-live-editor": {
+      "title": "Mermaid live editor",
+      "url": "https://mermaid-js.github.io/mermaid-live-editor/edit",
+      "sectionId": "diagrams"
+    },
+    "mind-meister": {
+      "title": "Mind Meister",
+      "url": "https://www.mindmeister.com/",
+      "sectionId": "diagrams"
+    },
+    "advanced-bash-scripting-guide": {
+      "title": "Advanced Bash-Scripting Guide",
+      "url": "https://tldp.org/LDP/abs/html/",
+      "sectionId": "guides"
+    },
+    "easing-functions-cheat-sheet": {
+      "title": "Easing Functions Cheat Sheet",
+      "url": "https://easings.net/",
+      "sectionId": "guides"
+    },
+    "carbon": {
+      "title": "Carbon",
+      "url": "https://carbon.now.sh",
+      "sectionId": "image-manipulation"
+    },
+    "cleanup-pictures": {
+      "title": "Cleanup Pictures",
+      "url": "https://cleanup.pictures/",
+      "sectionId": "image-manipulation"
+    },
+    "favicon-io": {
+      "title": "favicon.io",
+      "url": "https://favicon.io/",
+      "sectionId": "image-manipulation"
+    },
+    "image-resizer": {
+      "title": "Image Resizer",
+      "url": "https://imageresizer.com/",
+      "sectionId": "image-manipulation"
+    },
+    "remove-bg": {
+      "title": "Remove.bg",
+      "url": "https://www.remove.bg/pt-br/upload",
+      "sectionId": "image-manipulation"
+    },
+    "squish": {
+      "title": "Squish",
+      "url": "https://squish.addy.ie/",
+      "sectionId": "image-manipulation"
+    },
+    "svgomg": {
+      "title": "SVGOMG",
+      "url": "https://jakearchibald.github.io/svgomg/",
+      "sectionId": "image-manipulation"
+    },
+    "svg-optimizer": {
+      "title": "SVG Optimizer",
+      "url": "https://svgoptimizer.com/",
+      "sectionId": "image-manipulation"
+    },
+    "svg-to-png": {
+      "title": "SVG to PNG",
+      "url": "https://svgtopng.com/",
+      "sectionId": "image-manipulation"
+    },
+    "svg-viewer": {
+      "title": "SVG Viewer",
+      "url": "https://www.svgviewer.dev/",
+      "sectionId": "image-manipulation"
+    },
+    "tiny-png": {
+      "title": "Tiny png",
+      "url": "https://tinypng.com/",
+      "sectionId": "image-manipulation"
+    },
+    "autoregex": {
+      "title": "AutoRegex",
+      "url": "https://www.autoregex.xyz/",
+      "sectionId": "regex"
+    },
+    "debuggex": {
+      "title": "Debuggex",
+      "url": "https://www.debuggex.com/",
+      "sectionId": "regex"
+    },
+    "regex101": {
+      "title": "Regex101",
+      "url": "https://regex101.com/",
+      "sectionId": "regex"
+    },
+    "regexper": {
+      "title": "Regexper",
+      "url": "https://regexper.com/",
+      "sectionId": "regex"
+    },
+    "regexr": {
+      "title": "Regexr",
+      "url": "https://regexr.com/",
+      "sectionId": "regex"
+    },
+    "google-colab": {
+      "title": "Google Colab",
+      "url": "https://colab.research.google.com/",
+      "sectionId": "repl"
+    },
+    "jasmine-template-for-codepen": {
+      "title": "Jasmine template for Codepen",
+      "url": "https://codepen.io/teles/pen/aKrBrg",
+      "sectionId": "repl"
+    },
+    "php-cli": {
+      "title": "PHP CLI",
+      "url": "https://replit.com/languages/php_cli",
+      "sectionId": "repl"
+    },
+    "prettier-playground": {
+      "title": "Prettier Playground",
+      "url": "https://prettier.io/playground/",
+      "sectionId": "repl"
+    },
+    "typescript-playground": {
+      "title": "Typescript playground",
+      "url": "https://www.typescriptlang.org/play",
+      "sectionId": "repl"
+    },
+    "asciinema": {
+      "title": "asciinema",
+      "url": "https://asciinema.org/",
+      "sectionId": "screen-recording"
+    },
+    "bulk-redirect-checker-tool": {
+      "title": "Bulk Redirect Checker Tool",
+      "url": "https://www.redirect-checker.org/bulk-redirect-checker.php",
+      "sectionId": "seo"
+    },
+    "linkedin-post-checker": {
+      "title": "LinkedIn Post Checker",
+      "url": "https://www.linkedin.com/post-inspector/inspect/teles.dev.br",
+      "sectionId": "seo"
+    },
+    "rich-results": {
+      "title": "Rich Results",
+      "url": "https://search.google.com/test/rich-results",
+      "sectionId": "seo"
+    },
+    "convertio": {
+      "title": "Convertio",
+      "url": "https://convertio.co/pt/",
+      "sectionId": "text-manipulation"
+    },
+    "emojipedia": {
+      "title": "Emojipedia",
+      "url": "https://emojipedia.org/",
+      "sectionId": "text-manipulation"
+    },
+    "markdown-to-ast-textlint": {
+      "title": "markdown-to-ast (textlint)",
+      "url": "https://textlint.org/markdown-to-ast/example/",
+      "sectionId": "text-manipulation"
+    },
+    "remove-duplicated-lines": {
+      "title": "Remove duplicated lines",
+      "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php",
+      "sectionId": "text-manipulation"
+    },
+    "cors-test": {
+      "title": "CORS Test",
+      "url": "https://cors-test.codehappy.dev/",
+      "sectionId": "web-development-utilities"
+    },
+    "mocky-designer": {
+      "title": "Mocky Designer",
+      "url": "https://designer.mocky.io/design",
+      "sectionId": "web-development-utilities"
+    },
+    "reqbin": {
+      "title": "ReqBin",
+      "url": "https://reqbin.com/",
+      "sectionId": "web-development-utilities"
+    }
+  },
+  "terms": {
+    "chatgpt": [
+      {
+        "id": "chatgpt",
+        "f": 2
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "chatgpt",
+        "f": 1
+      }
+    ],
+    "optimized": [
+      {
+        "id": "chatgpt",
+        "f": 1
+      }
+    ],
+    "model": [
+      {
+        "id": "chatgpt",
+        "f": 1
+      }
+    ],
+    "gitingest": [
+      {
+        "id": "gitingest",
+        "f": 2
+      }
+    ],
+    "ai": [
+      {
+        "id": "gitingest",
+        "f": 1
+      },
+      {
+        "id": "notebooklm",
+        "f": 1
+      }
+    ],
+    "powered": [
+      {
+        "id": "gitingest",
+        "f": 1
+      },
+      {
+        "id": "notebooklm",
+        "f": 1
+      },
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "tool": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 2
+      },
+      {
+        "id": "gitingest",
+        "f": 1
+      },
+      {
+        "id": "notebooklm",
+        "f": 1
+      },
+      {
+        "id": "kigen-color",
+        "f": 1
+      },
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      },
+      {
+        "id": "clippy",
+        "f": 1
+      },
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      },
+      {
+        "id": "fossflow",
+        "f": 1
+      },
+      {
+        "id": "debuggex",
+        "f": 1
+      },
+      {
+        "id": "prettier-playground",
+        "f": 1
+      },
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "query": [
+      {
+        "id": "gitingest",
+        "f": 1
+      }
+    ],
+    "analyze": [
+      {
+        "id": "gitingest",
+        "f": 1
+      }
+    ],
+    "git": [
+      {
+        "id": "gitingest",
+        "f": 1
+      },
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "repositories": [
+      {
+        "id": "gitingest",
+        "f": 1
+      }
+    ],
+    "insights": [
+      {
+        "id": "gitingest",
+        "f": 1
+      }
+    ],
+    "understanding": [
+      {
+        "id": "gitingest",
+        "f": 1
+      }
+    ],
+    "notebooklm": [
+      {
+        "id": "notebooklm",
+        "f": 2
+      }
+    ],
+    "google": [
+      {
+        "id": "google-colab",
+        "f": 2
+      },
+      {
+        "id": "notebooklm",
+        "f": 1
+      }
+    ],
+    "creating": [
+      {
+        "id": "notebooklm",
+        "f": 1
+      },
+      {
+        "id": "clippy",
+        "f": 1
+      },
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      }
+    ],
+    "structured": [
+      {
+        "id": "notebooklm",
+        "f": 1
+      },
+      {
+        "id": "rich-results",
+        "f": 1
+      }
+    ],
+    "notes": [
+      {
+        "id": "notebooklm",
+        "f": 1
+      }
+    ],
+    "assisting": [
+      {
+        "id": "notebooklm",
+        "f": 1
+      }
+    ],
+    "color": [
+      {
+        "id": "color-designer",
+        "f": 4
+      },
+      {
+        "id": "kigen-color",
+        "f": 3
+      },
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 3
+      },
+      {
+        "id": "colors-stacks",
+        "f": 1
+      }
+    ],
+    "designer": [
+      {
+        "id": "color-designer",
+        "f": 2
+      },
+      {
+        "id": "mocky-designer",
+        "f": 2
+      }
+    ],
+    "tools": [
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "mind-meister",
+        "f": 1
+      }
+    ],
+    "including": [
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      },
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "conversion": [
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      }
+    ],
+    "models": [
+      {
+        "id": "color-designer",
+        "f": 1
+      }
+    ],
+    "palette": [
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "colors-stacks",
+        "f": 1
+      },
+      {
+        "id": "kigen-color",
+        "f": 1
+      }
+    ],
+    "image": [
+      {
+        "id": "image-resizer",
+        "f": 2
+      },
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "remove-bg",
+        "f": 1
+      }
+    ],
+    "visually": [
+      {
+        "id": "color-designer",
+        "f": 1
+      }
+    ],
+    "appealing": [
+      {
+        "id": "color-designer",
+        "f": 1
+      }
+    ],
+    "gradient": [
+      {
+        "id": "color-designer",
+        "f": 1
+      }
+    ],
+    "generator": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 2
+      },
+      {
+        "id": "color-designer",
+        "f": 1
+      },
+      {
+        "id": "colors-stacks",
+        "f": 1
+      },
+      {
+        "id": "kigen-color",
+        "f": 1
+      }
+    ],
+    "colors": [
+      {
+        "id": "colors-stacks",
+        "f": 2
+      }
+    ],
+    "stacks": [
+      {
+        "id": "colors-stacks",
+        "f": 2
+      }
+    ],
+    "design": [
+      {
+        "id": "colors-stacks",
+        "f": 1
+      },
+      {
+        "id": "kigen-color",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "systems": [
+      {
+        "id": "colors-stacks",
+        "f": 1
+      }
+    ],
+    "kigen": [
+      {
+        "id": "kigen-color",
+        "f": 2
+      }
+    ],
+    "tailwind": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 3
+      }
+    ],
+    "css": [
+      {
+        "id": "css-loaders",
+        "f": 3
+      },
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 2
+      },
+      {
+        "id": "beautiful-css-box-shadow-examples",
+        "f": 2
+      },
+      {
+        "id": "clippy",
+        "f": 1
+      },
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      },
+      {
+        "id": "neumorphism-io",
+        "f": 1
+      }
+    ],
+    "generating": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      },
+      {
+        "id": "quickchart",
+        "f": 1
+      }
+    ],
+    "customizing": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      }
+    ],
+    "palettes": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      }
+    ],
+    "includes": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      }
+    ],
+    "paid": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      }
+    ],
+    "features": [
+      {
+        "id": "tailwind-css-color-generator",
+        "f": 1
+      }
+    ],
+    "beautiful": [
+      {
+        "id": "beautiful-css-box-shadow-examples",
+        "f": 2
+      },
+      {
+        "id": "carbon",
+        "f": 1
+      }
+    ],
+    "box": [
+      {
+        "id": "beautiful-css-box-shadow-examples",
+        "f": 3
+      }
+    ],
+    "shadow": [
+      {
+        "id": "beautiful-css-box-shadow-examples",
+        "f": 3
+      }
+    ],
+    "examples": [
+      {
+        "id": "beautiful-css-box-shadow-examples",
+        "f": 3
+      }
+    ],
+    "clippy": [
+      {
+        "id": "clippy",
+        "f": 2
+      }
+    ],
+    "copying": [
+      {
+        "id": "clippy",
+        "f": 1
+      }
+    ],
+    "custom": [
+      {
+        "id": "clippy",
+        "f": 1
+      }
+    ],
+    "shapes": [
+      {
+        "id": "clippy",
+        "f": 1
+      },
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      }
+    ],
+    "loaders": [
+      {
+        "id": "css-loaders",
+        "f": 3
+      }
+    ],
+    "pre": [
+      {
+        "id": "css-loaders",
+        "f": 1
+      }
+    ],
+    "customize": [
+      {
+        "id": "css-loaders",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "projects": [
+      {
+        "id": "css-loaders",
+        "f": 1
+      }
+    ],
+    "fancy": [
+      {
+        "id": "fancy-border-radius",
+        "f": 2
+      }
+    ],
+    "border": [
+      {
+        "id": "fancy-border-radius",
+        "f": 3
+      }
+    ],
+    "radius": [
+      {
+        "id": "fancy-border-radius",
+        "f": 3
+      }
+    ],
+    "interactive": [
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      },
+      {
+        "id": "markmap",
+        "f": 1
+      }
+    ],
+    "complex": [
+      {
+        "id": "fancy-border-radius",
+        "f": 1
+      }
+    ],
+    "neumorphismio": [
+      {
+        "id": "neumorphism-io",
+        "f": 2
+      }
+    ],
+    "generate": [
+      {
+        "id": "neumorphism-io",
+        "f": 1
+      },
+      {
+        "id": "json-to-typescript",
+        "f": 1
+      },
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "neumorphic": [
+      {
+        "id": "neumorphism-io",
+        "f": 1
+      }
+    ],
+    "designs": [
+      {
+        "id": "neumorphism-io",
+        "f": 1
+      }
+    ],
+    "csv": [
+      {
+        "id": "csv-to-json",
+        "f": 3
+      },
+      {
+        "id": "json-to-csv",
+        "f": 3
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      }
+    ],
+    "json": [
+      {
+        "id": "csv-to-json",
+        "f": 3
+      },
+      {
+        "id": "json-crack",
+        "f": 3
+      },
+      {
+        "id": "json-to-csv",
+        "f": 3
+      },
+      {
+        "id": "json-to-typescript",
+        "f": 3
+      },
+      {
+        "id": "jwt-io",
+        "f": 1
+      },
+      {
+        "id": "mr-data-converter",
+        "f": 1
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "transform": [
+      {
+        "id": "csv-to-json",
+        "f": 1
+      },
+      {
+        "id": "json-to-csv",
+        "f": 1
+      }
+    ],
+    "content": [
+      {
+        "id": "csv-to-json",
+        "f": 1
+      }
+    ],
+    "arrays": [
+      {
+        "id": "csv-to-json",
+        "f": 1
+      }
+    ],
+    "diffchecker": [
+      {
+        "id": "diffchecker",
+        "f": 2
+      }
+    ],
+    "compare": [
+      {
+        "id": "diffchecker",
+        "f": 1
+      }
+    ],
+    "files": [
+      {
+        "id": "diffchecker",
+        "f": 1
+      },
+      {
+        "id": "svgomg",
+        "f": 1
+      },
+      {
+        "id": "svg-optimizer",
+        "f": 1
+      },
+      {
+        "id": "svg-to-png",
+        "f": 1
+      }
+    ],
+    "crack": [
+      {
+        "id": "json-crack",
+        "f": 2
+      }
+    ],
+    "visualize": [
+      {
+        "id": "json-crack",
+        "f": 1
+      },
+      {
+        "id": "regexper",
+        "f": 1
+      }
+    ],
+    "data": [
+      {
+        "id": "mr-data-converter",
+        "f": 3
+      },
+      {
+        "id": "json-crack",
+        "f": 1
+      },
+      {
+        "id": "json-to-csv",
+        "f": 1
+      },
+      {
+        "id": "svg-viewer",
+        "f": 1
+      },
+      {
+        "id": "rich-results",
+        "f": 1
+      }
+    ],
+    "instantly": [
+      {
+        "id": "json-crack",
+        "f": 1
+      },
+      {
+        "id": "json-to-typescript",
+        "f": 1
+      },
+      {
+        "id": "cors-test",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "graphs": [
+      {
+        "id": "json-crack",
+        "f": 1
+      }
+    ],
+    "file": [
+      {
+        "id": "json-to-csv",
+        "f": 1
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      }
+    ],
+    "typescript": [
+      {
+        "id": "json-to-typescript",
+        "f": 3
+      },
+      {
+        "id": "typescript-playground",
+        "f": 3
+      }
+    ],
+    "interfaces": [
+      {
+        "id": "json-to-typescript",
+        "f": 1
+      }
+    ],
+    "jwtio": [
+      {
+        "id": "jwt-io",
+        "f": 2
+      }
+    ],
+    "token": [
+      {
+        "id": "jwt-io",
+        "f": 1
+      }
+    ],
+    "jwt": [
+      {
+        "id": "jwt-io",
+        "f": 1
+      }
+    ],
+    "debugger": [
+      {
+        "id": "jwt-io",
+        "f": 1
+      }
+    ],
+    "converter": [
+      {
+        "id": "mr-data-converter",
+        "f": 2
+      }
+    ],
+    "convert": [
+      {
+        "id": "mr-data-converter",
+        "f": 1
+      },
+      {
+        "id": "squish",
+        "f": 1
+      },
+      {
+        "id": "autoregex",
+        "f": 1
+      },
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "spreadsheet": [
+      {
+        "id": "mr-data-converter",
+        "f": 1
+      }
+    ],
+    "xml": [
+      {
+        "id": "mr-data-converter",
+        "f": 1
+      },
+      {
+        "id": "convertio",
+        "f": 1
+      }
+    ],
+    "sql": [
+      {
+        "id": "mr-data-converter",
+        "f": 1
+      }
+    ],
+    "quickchart": [
+      {
+        "id": "quickchart",
+        "f": 2
+      }
+    ],
+    "api": [
+      {
+        "id": "quickchart",
+        "f": 1
+      }
+    ],
+    "charts": [
+      {
+        "id": "quickchart",
+        "f": 1
+      }
+    ],
+    "visualizations": [
+      {
+        "id": "quickchart",
+        "f": 1
+      }
+    ],
+    "url": [
+      {
+        "id": "quickchart",
+        "f": 1
+      }
+    ],
+    "dbdiagramio": [
+      {
+        "id": "dbdiagram-io",
+        "f": 2
+      }
+    ],
+    "draw": [
+      {
+        "id": "dbdiagram-io",
+        "f": 1
+      }
+    ],
+    "entity": [
+      {
+        "id": "dbdiagram-io",
+        "f": 1
+      }
+    ],
+    "relationship": [
+      {
+        "id": "dbdiagram-io",
+        "f": 1
+      }
+    ],
+    "diagrams": [
+      {
+        "id": "dbdiagram-io",
+        "f": 1
+      },
+      {
+        "id": "excalidraw",
+        "f": 1
+      },
+      {
+        "id": "fossflow",
+        "f": 1
+      },
+      {
+        "id": "gitdiagram",
+        "f": 1
+      },
+      {
+        "id": "mermaid-live-editor",
+        "f": 1
+      }
+    ],
+    "painlessly": [
+      {
+        "id": "dbdiagram-io",
+        "f": 1
+      }
+    ],
+    "excalidraw": [
+      {
+        "id": "excalidraw",
+        "f": 2
+      }
+    ],
+    "create": [
+      {
+        "id": "excalidraw",
+        "f": 1
+      },
+      {
+        "id": "fossflow",
+        "f": 1
+      },
+      {
+        "id": "mermaid-live-editor",
+        "f": 1
+      },
+      {
+        "id": "mind-meister",
+        "f": 1
+      },
+      {
+        "id": "carbon",
+        "f": 1
+      },
+      {
+        "id": "favicon-io",
+        "f": 1
+      },
+      {
+        "id": "regexr",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "sketch": [
+      {
+        "id": "excalidraw",
+        "f": 1
+      }
+    ],
+    "hand": [
+      {
+        "id": "excalidraw",
+        "f": 1
+      }
+    ],
+    "drawn": [
+      {
+        "id": "excalidraw",
+        "f": 1
+      }
+    ],
+    "fossflow": [
+      {
+        "id": "fossflow",
+        "f": 2
+      }
+    ],
+    "isometric": [
+      {
+        "id": "fossflow",
+        "f": 2
+      }
+    ],
+    "illustrations": [
+      {
+        "id": "fossflow",
+        "f": 1
+      }
+    ],
+    "browser": [
+      {
+        "id": "fossflow",
+        "f": 1
+      },
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "source": [
+      {
+        "id": "fossflow",
+        "f": 1
+      },
+      {
+        "id": "carbon",
+        "f": 1
+      }
+    ],
+    "diagramming": [
+      {
+        "id": "fossflow",
+        "f": 1
+      }
+    ],
+    "gitdiagram": [
+      {
+        "id": "gitdiagram",
+        "f": 2
+      }
+    ],
+    "visual": [
+      {
+        "id": "gitdiagram",
+        "f": 1
+      },
+      {
+        "id": "debuggex",
+        "f": 1
+      }
+    ],
+    "represent": [
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "branches": [
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "commit": [
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "history": [
+      {
+        "id": "gitdiagram",
+        "f": 1
+      }
+    ],
+    "markmap": [
+      {
+        "id": "markmap",
+        "f": 2
+      }
+    ],
+    "build": [
+      {
+        "id": "markmap",
+        "f": 1
+      },
+      {
+        "id": "regex101",
+        "f": 1
+      }
+    ],
+    "mindmaps": [
+      {
+        "id": "markmap",
+        "f": 1
+      }
+    ],
+    "markdown": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 4
+      },
+      {
+        "id": "markmap",
+        "f": 1
+      },
+      {
+        "id": "mermaid-live-editor",
+        "f": 1
+      }
+    ],
+    "mermaid": [
+      {
+        "id": "mermaid-live-editor",
+        "f": 2
+      }
+    ],
+    "live": [
+      {
+        "id": "mermaid-live-editor",
+        "f": 2
+      }
+    ],
+    "editor": [
+      {
+        "id": "mermaid-live-editor",
+        "f": 2
+      }
+    ],
+    "share": [
+      {
+        "id": "mermaid-live-editor",
+        "f": 1
+      },
+      {
+        "id": "asciinema",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "language": [
+      {
+        "id": "mermaid-live-editor",
+        "f": 1
+      },
+      {
+        "id": "autoregex",
+        "f": 1
+      }
+    ],
+    "mind": [
+      {
+        "id": "mind-meister",
+        "f": 3
+      }
+    ],
+    "meister": [
+      {
+        "id": "mind-meister",
+        "f": 2
+      }
+    ],
+    "easily": [
+      {
+        "id": "mind-meister",
+        "f": 1
+      },
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "maps": [
+      {
+        "id": "mind-meister",
+        "f": 1
+      }
+    ],
+    "advanced": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 2
+      }
+    ],
+    "bash": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 2
+      }
+    ],
+    "scripting": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 3
+      }
+    ],
+    "guide": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 2
+      }
+    ],
+    "depth": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 1
+      }
+    ],
+    "exploration": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 1
+      }
+    ],
+    "art": [
+      {
+        "id": "advanced-bash-scripting-guide",
+        "f": 1
+      }
+    ],
+    "easing": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 3
+      }
+    ],
+    "functions": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 3
+      }
+    ],
+    "cheat": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 2
+      }
+    ],
+    "sheet": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 2
+      }
+    ],
+    "explanation": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 1
+      }
+    ],
+    "demonstrations": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 1
+      }
+    ],
+    "numerous": [
+      {
+        "id": "easing-functions-cheat-sheet",
+        "f": 1
+      }
+    ],
+    "carbon": [
+      {
+        "id": "carbon",
+        "f": 2
+      }
+    ],
+    "images": [
+      {
+        "id": "carbon",
+        "f": 1
+      },
+      {
+        "id": "favicon-io",
+        "f": 1
+      },
+      {
+        "id": "image-resizer",
+        "f": 1
+      },
+      {
+        "id": "squish",
+        "f": 1
+      },
+      {
+        "id": "tiny-png",
+        "f": 1
+      }
+    ],
+    "code": [
+      {
+        "id": "carbon",
+        "f": 1
+      },
+      {
+        "id": "php-cli",
+        "f": 1
+      },
+      {
+        "id": "prettier-playground",
+        "f": 1
+      }
+    ],
+    "sharing": [
+      {
+        "id": "carbon",
+        "f": 1
+      }
+    ],
+    "cleanup": [
+      {
+        "id": "cleanup-pictures",
+        "f": 2
+      }
+    ],
+    "pictures": [
+      {
+        "id": "cleanup-pictures",
+        "f": 2
+      }
+    ],
+    "remove": [
+      {
+        "id": "remove-duplicated-lines",
+        "f": 3
+      },
+      {
+        "id": "cleanup-pictures",
+        "f": 1
+      },
+      {
+        "id": "remove-bg",
+        "f": 1
+      }
+    ],
+    "unwanted": [
+      {
+        "id": "cleanup-pictures",
+        "f": 1
+      }
+    ],
+    "objects": [
+      {
+        "id": "cleanup-pictures",
+        "f": 1
+      }
+    ],
+    "photos": [
+      {
+        "id": "cleanup-pictures",
+        "f": 1
+      }
+    ],
+    "faviconio": [
+      {
+        "id": "favicon-io",
+        "f": 2
+      }
+    ],
+    "favicons": [
+      {
+        "id": "favicon-io",
+        "f": 1
+      }
+    ],
+    "emojis": [
+      {
+        "id": "favicon-io",
+        "f": 1
+      },
+      {
+        "id": "emojipedia",
+        "f": 1
+      }
+    ],
+    "resizer": [
+      {
+        "id": "image-resizer",
+        "f": 2
+      }
+    ],
+    "resize": [
+      {
+        "id": "image-resizer",
+        "f": 1
+      }
+    ],
+    "online": [
+      {
+        "id": "image-resizer",
+        "f": 1
+      },
+      {
+        "id": "google-colab",
+        "f": 1
+      },
+      {
+        "id": "prettier-playground",
+        "f": 1
+      },
+      {
+        "id": "typescript-playground",
+        "f": 1
+      },
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "loss": [
+      {
+        "id": "image-resizer",
+        "f": 1
+      }
+    ],
+    "quality": [
+      {
+        "id": "image-resizer",
+        "f": 1
+      }
+    ],
+    "removebg": [
+      {
+        "id": "remove-bg",
+        "f": 2
+      }
+    ],
+    "backgrounds": [
+      {
+        "id": "remove-bg",
+        "f": 1
+      }
+    ],
+    "automatically": [
+      {
+        "id": "remove-bg",
+        "f": 1
+      }
+    ],
+    "squish": [
+      {
+        "id": "squish",
+        "f": 2
+      }
+    ],
+    "compress": [
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "avif": [
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "jpeg": [
+      {
+        "id": "squish",
+        "f": 2
+      }
+    ],
+    "xl": [
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "png": [
+      {
+        "id": "svg-to-png",
+        "f": 3
+      },
+      {
+        "id": "tiny-png",
+        "f": 3
+      },
+      {
+        "id": "squish",
+        "f": 1
+      },
+      {
+        "id": "svg-viewer",
+        "f": 1
+      }
+    ],
+    "webp": [
+      {
+        "id": "squish",
+        "f": 1
+      },
+      {
+        "id": "tiny-png",
+        "f": 1
+      }
+    ],
+    "formats": [
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "squoosh": [
+      {
+        "id": "squish",
+        "f": 1
+      }
+    ],
+    "svgomg": [
+      {
+        "id": "svgomg",
+        "f": 2
+      }
+    ],
+    "optimize": [
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "minify": [
+      {
+        "id": "svgomg",
+        "f": 1
+      },
+      {
+        "id": "svg-optimizer",
+        "f": 1
+      },
+      {
+        "id": "tiny-png",
+        "f": 1
+      }
+    ],
+    "svg": [
+      {
+        "id": "svg-optimizer",
+        "f": 3
+      },
+      {
+        "id": "svg-to-png",
+        "f": 3
+      },
+      {
+        "id": "svg-viewer",
+        "f": 3
+      },
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "user": [
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "friendly": [
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "interface": [
+      {
+        "id": "svgomg",
+        "f": 1
+      }
+    ],
+    "optimizer": [
+      {
+        "id": "svg-optimizer",
+        "f": 2
+      }
+    ],
+    "converts": [
+      {
+        "id": "svg-to-png",
+        "f": 1
+      }
+    ],
+    "viewer": [
+      {
+        "id": "svg-viewer",
+        "f": 2
+      }
+    ],
+    "react": [
+      {
+        "id": "svg-viewer",
+        "f": 1
+      }
+    ],
+    "uri": [
+      {
+        "id": "svg-viewer",
+        "f": 1
+      }
+    ],
+    "tiny": [
+      {
+        "id": "tiny-png",
+        "f": 2
+      }
+    ],
+    "jpg": [
+      {
+        "id": "tiny-png",
+        "f": 1
+      }
+    ],
+    "autoregex": [
+      {
+        "id": "autoregex",
+        "f": 2
+      }
+    ],
+    "english": [
+      {
+        "id": "autoregex",
+        "f": 1
+      }
+    ],
+    "regex": [
+      {
+        "id": "autoregex",
+        "f": 1
+      }
+    ],
+    "natural": [
+      {
+        "id": "autoregex",
+        "f": 1
+      }
+    ],
+    "processing": [
+      {
+        "id": "autoregex",
+        "f": 1
+      }
+    ],
+    "debuggex": [
+      {
+        "id": "debuggex",
+        "f": 2
+      }
+    ],
+    "building": [
+      {
+        "id": "debuggex",
+        "f": 1
+      }
+    ],
+    "debugging": [
+      {
+        "id": "debuggex",
+        "f": 1
+      }
+    ],
+    "regular": [
+      {
+        "id": "debuggex",
+        "f": 1
+      },
+      {
+        "id": "regex101",
+        "f": 1
+      },
+      {
+        "id": "regexper",
+        "f": 1
+      },
+      {
+        "id": "regexr",
+        "f": 1
+      }
+    ],
+    "expressions": [
+      {
+        "id": "debuggex",
+        "f": 1
+      },
+      {
+        "id": "regex101",
+        "f": 1
+      },
+      {
+        "id": "regexper",
+        "f": 1
+      },
+      {
+        "id": "regexr",
+        "f": 1
+      }
+    ],
+    "regex101": [
+      {
+        "id": "regex101",
+        "f": 2
+      },
+      {
+        "id": "regexr",
+        "f": 1
+      }
+    ],
+    "debug": [
+      {
+        "id": "regex101",
+        "f": 1
+      }
+    ],
+    "regexper": [
+      {
+        "id": "regexper",
+        "f": 2
+      }
+    ],
+    "regexr": [
+      {
+        "id": "regexr",
+        "f": 2
+      }
+    ],
+    "alternative": [
+      {
+        "id": "regexr",
+        "f": 1
+      }
+    ],
+    "colab": [
+      {
+        "id": "google-colab",
+        "f": 2
+      }
+    ],
+    "python": [
+      {
+        "id": "google-colab",
+        "f": 1
+      }
+    ],
+    "snippets": [
+      {
+        "id": "google-colab",
+        "f": 1
+      }
+    ],
+    "jasmine": [
+      {
+        "id": "jasmine-template-for-codepen",
+        "f": 3
+      }
+    ],
+    "template": [
+      {
+        "id": "jasmine-template-for-codepen",
+        "f": 3
+      }
+    ],
+    "codepen": [
+      {
+        "id": "jasmine-template-for-codepen",
+        "f": 3
+      }
+    ],
+    "php": [
+      {
+        "id": "php-cli",
+        "f": 3
+      }
+    ],
+    "cli": [
+      {
+        "id": "php-cli",
+        "f": 2
+      }
+    ],
+    "compile": [
+      {
+        "id": "php-cli",
+        "f": 1
+      }
+    ],
+    "prettier": [
+      {
+        "id": "prettier-playground",
+        "f": 2
+      }
+    ],
+    "playground": [
+      {
+        "id": "prettier-playground",
+        "f": 2
+      },
+      {
+        "id": "typescript-playground",
+        "f": 2
+      }
+    ],
+    "automatic": [
+      {
+        "id": "prettier-playground",
+        "f": 1
+      }
+    ],
+    "formatting": [
+      {
+        "id": "prettier-playground",
+        "f": 1
+      }
+    ],
+    "repl": [
+      {
+        "id": "typescript-playground",
+        "f": 1
+      }
+    ],
+    "asciinema": [
+      {
+        "id": "asciinema",
+        "f": 2
+      }
+    ],
+    "record": [
+      {
+        "id": "asciinema",
+        "f": 1
+      }
+    ],
+    "terminal": [
+      {
+        "id": "asciinema",
+        "f": 1
+      }
+    ],
+    "sessions": [
+      {
+        "id": "asciinema",
+        "f": 1
+      }
+    ],
+    "bulk": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 2
+      }
+    ],
+    "redirect": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 2
+      }
+    ],
+    "checker": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 2
+      },
+      {
+        "id": "linkedin-post-checker",
+        "f": 2
+      }
+    ],
+    "check": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 1
+      },
+      {
+        "id": "linkedin-post-checker",
+        "f": 1
+      },
+      {
+        "id": "rich-results",
+        "f": 1
+      },
+      {
+        "id": "cors-test",
+        "f": 1
+      }
+    ],
+    "multiple": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 1
+      }
+    ],
+    "redirects": [
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 1
+      }
+    ],
+    "linkedin": [
+      {
+        "id": "linkedin-post-checker",
+        "f": 2
+      }
+    ],
+    "post": [
+      {
+        "id": "linkedin-post-checker",
+        "f": 2
+      },
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "metadata": [
+      {
+        "id": "linkedin-post-checker",
+        "f": 1
+      }
+    ],
+    "rich": [
+      {
+        "id": "rich-results",
+        "f": 2
+      }
+    ],
+    "convertio": [
+      {
+        "id": "convertio",
+        "f": 2
+      }
+    ],
+    "emojipedia": [
+      {
+        "id": "emojipedia",
+        "f": 2
+      }
+    ],
+    "list": [
+      {
+        "id": "emojipedia",
+        "f": 1
+      }
+    ],
+    "paste": [
+      {
+        "id": "emojipedia",
+        "f": 1
+      }
+    ],
+    "ast": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 3
+      }
+    ],
+    "textlint": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 2
+      }
+    ],
+    "abstract": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "syntax": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "tree": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "programmatic": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "analysis": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "validation": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "transformation": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "documents": [
+      {
+        "id": "markdown-to-ast-textlint",
+        "f": 1
+      }
+    ],
+    "duplicated": [
+      {
+        "id": "remove-duplicated-lines",
+        "f": 3
+      }
+    ],
+    "lines": [
+      {
+        "id": "remove-duplicated-lines",
+        "f": 4
+      }
+    ],
+    "sort": [
+      {
+        "id": "remove-duplicated-lines",
+        "f": 1
+      }
+    ],
+    "cors": [
+      {
+        "id": "cors-test",
+        "f": 3
+      }
+    ],
+    "support": [
+      {
+        "id": "cors-test",
+        "f": 1
+      }
+    ],
+    "apis": [
+      {
+        "id": "cors-test",
+        "f": 1
+      },
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "servers": [
+      {
+        "id": "cors-test",
+        "f": 1
+      }
+    ],
+    "mocky": [
+      {
+        "id": "mocky-designer",
+        "f": 2
+      }
+    ],
+    "mock": [
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "options": [
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "responses": [
+      {
+        "id": "mocky-designer",
+        "f": 1
+      }
+    ],
+    "reqbin": [
+      {
+        "id": "reqbin",
+        "f": 2
+      }
+    ],
+    "testing": [
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "http": [
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "requests": [
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "delete": [
+      {
+        "id": "reqbin",
+        "f": 1
+      }
+    ]
+  }
+}

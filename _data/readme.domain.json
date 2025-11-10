@@ -1,0 +1,741 @@
+{
+  "$schema": "https://awesome-pages.github.io/schemas/domain/v1.json",
+  "schemaVersion": 1,
+  "meta": {
+    "title": "Awesome Click and Use",
+    "generatedAt": "2025-11-10T12:47:45.840Z",
+    "source": "local:/home/runner/work/awesome-click-and-use/awesome-click-and-use/README.md",
+    "language": "en"
+  },
+  "sections": [
+    {
+      "id": "artificial-intelligence",
+      "title": "Artificial Intelligence",
+      "parentId": null,
+      "depth": 0,
+      "order": 0,
+      "path": "artificial-intelligence",
+      "descriptionHtml": null
+    },
+    {
+      "id": "colors",
+      "title": "Colors",
+      "parentId": null,
+      "depth": 0,
+      "order": 1,
+      "path": "colors",
+      "descriptionHtml": null
+    },
+    {
+      "id": "css-to-copy",
+      "title": "CSS to copy",
+      "parentId": null,
+      "depth": 0,
+      "order": 2,
+      "path": "css-to-copy",
+      "descriptionHtml": null
+    },
+    {
+      "id": "data-transform-and-visualization",
+      "title": "Data transform and visualization",
+      "parentId": null,
+      "depth": 0,
+      "order": 3,
+      "path": "data-transform-and-visualization",
+      "descriptionHtml": null
+    },
+    {
+      "id": "diagrams",
+      "title": "Diagrams",
+      "parentId": null,
+      "depth": 0,
+      "order": 4,
+      "path": "diagrams",
+      "descriptionHtml": null
+    },
+    {
+      "id": "guides",
+      "title": "Guides",
+      "parentId": null,
+      "depth": 0,
+      "order": 5,
+      "path": "guides",
+      "descriptionHtml": null
+    },
+    {
+      "id": "image-manipulation",
+      "title": "Image manipulation",
+      "parentId": null,
+      "depth": 0,
+      "order": 6,
+      "path": "image-manipulation",
+      "descriptionHtml": null
+    },
+    {
+      "id": "regex",
+      "title": "Regex",
+      "parentId": null,
+      "depth": 0,
+      "order": 7,
+      "path": "regex",
+      "descriptionHtml": null
+    },
+    {
+      "id": "repl",
+      "title": "REPL",
+      "parentId": null,
+      "depth": 0,
+      "order": 8,
+      "path": "repl",
+      "descriptionHtml": null
+    },
+    {
+      "id": "screen-recording",
+      "title": "Screen Recording",
+      "parentId": null,
+      "depth": 0,
+      "order": 9,
+      "path": "screen-recording",
+      "descriptionHtml": null
+    },
+    {
+      "id": "seo",
+      "title": "SEO",
+      "parentId": null,
+      "depth": 0,
+      "order": 10,
+      "path": "seo",
+      "descriptionHtml": null
+    },
+    {
+      "id": "text-manipulation",
+      "title": "Text manipulation",
+      "parentId": null,
+      "depth": 0,
+      "order": 11,
+      "path": "text-manipulation",
+      "descriptionHtml": null
+    },
+    {
+      "id": "web-development-utilities",
+      "title": "Web Development Utilities",
+      "parentId": null,
+      "depth": 0,
+      "order": 12,
+      "path": "web-development-utilities",
+      "descriptionHtml": null
+    }
+  ],
+  "items": [
+    {
+      "id": "chatgpt",
+      "sectionId": "artificial-intelligence",
+      "title": "ChatGPT",
+      "url": "https://chat.openai.com/chat",
+      "description": "Dialogue optimized model",
+      "descriptionHtml": "<p>Dialogue optimized model</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "gitingest",
+      "sectionId": "artificial-intelligence",
+      "title": "GitIngest",
+      "url": "https://gitingest.com/",
+      "description": "AI-powered tool to query and analyze your Git repositories for insights and understanding.",
+      "descriptionHtml": "<p>AI-powered tool to query and analyze your Git repositories for insights and understanding.</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "notebooklm",
+      "sectionId": "artificial-intelligence",
+      "title": "NotebookLM",
+      "url": "https://notebooklm.google.com/",
+      "description": "AI-powered tool from Google for creating structured notes and assisting with research.",
+      "descriptionHtml": "<p>AI-powered tool from Google for creating structured notes and assisting with research.</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "color-designer",
+      "sectionId": "colors",
+      "title": "Color Designer",
+      "url": "https://colordesigner.io/",
+      "description": "Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator",
+      "descriptionHtml": "<p>Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "colors-stacks",
+      "sectionId": "colors",
+      "title": "Colors stacks",
+      "url": "https://lokeshdhakar.com/projects/color-stacks/",
+      "description": "A color palette generator for design systems",
+      "descriptionHtml": "<p>A color palette generator for design systems</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "kigen-color",
+      "sectionId": "colors",
+      "title": "Kigen Color",
+      "url": "https://kigen.design/color",
+      "description": "Color palette generator and design tool",
+      "descriptionHtml": "<p>Color palette generator and design tool</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "tailwind-css-color-generator",
+      "sectionId": "colors",
+      "title": "Tailwind CSS Color Generator",
+      "url": "https://uicolors.app/create",
+      "description": "Tool for generating and customizing Tailwind color palettes; includes paid features",
+      "descriptionHtml": "<p>Tool for generating and customizing Tailwind color palettes; includes paid features</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "beautiful-css-box-shadow-examples",
+      "sectionId": "css-to-copy",
+      "title": "Beautiful CSS box-shadow examples",
+      "url": "https://getcssscan.com/css-box-shadow-examples",
+      "description": "Box shadow examples to copy",
+      "descriptionHtml": "<p>Box shadow examples to copy</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "clippy",
+      "sectionId": "css-to-copy",
+      "title": "Clippy",
+      "url": "https://bennettfeely.com/clippy/",
+      "description": "A tool for creating and copying custom CSS shapes using .",
+      "descriptionHtml": "<p>A tool for creating and copying custom CSS shapes using <code>clip-path</code>.</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "css-loaders",
+      "sectionId": "css-to-copy",
+      "title": "CSS Loaders",
+      "url": "https://css-loaders.com/classic/",
+      "description": "Pre-made CSS loaders that you can copy and customize for your projects.",
+      "descriptionHtml": "<p>Pre-made CSS loaders that you can copy and customize for your projects.</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "fancy-border-radius",
+      "sectionId": "css-to-copy",
+      "title": "Fancy Border Radius",
+      "url": "https://9elements.github.io/fancy-border-radius/",
+      "description": "Interactive tool for creating complex border-radius shapes with CSS.",
+      "descriptionHtml": "<p>Interactive tool for creating complex border-radius shapes with CSS.</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "neumorphism-io",
+      "sectionId": "css-to-copy",
+      "title": "Neumorphism.io",
+      "url": "https://neumorphism.io/#e0e0e0",
+      "description": "Generate and copy CSS for neumorphic designs.",
+      "descriptionHtml": "<p>Generate and copy CSS for neumorphic designs.</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "csv-to-json",
+      "sectionId": "data-transform-and-visualization",
+      "title": "CSV to JSON",
+      "url": "https://csvjson.com/",
+      "description": "Transform CSV content to JSON arrays",
+      "descriptionHtml": "<p>Transform CSV content to JSON arrays</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "diffchecker",
+      "sectionId": "data-transform-and-visualization",
+      "title": "DiffChecker",
+      "url": "https://www.diffchecker.com/",
+      "description": "Compare two different files line by line",
+      "descriptionHtml": "<p>Compare two different files line by line</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "json-crack",
+      "sectionId": "data-transform-and-visualization",
+      "title": "JSON Crack",
+      "url": "https://jsoncrack.com/",
+      "description": "Visualize your JSON data instantly into graphs",
+      "descriptionHtml": "<p>Visualize your JSON data instantly into graphs</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "json-to-csv",
+      "sectionId": "data-transform-and-visualization",
+      "title": "JSON to CSV",
+      "url": "https://csvjson.com/json2csv",
+      "description": "Transform JSON data to CSV file",
+      "descriptionHtml": "<p>Transform JSON data to CSV file</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "json-to-typescript",
+      "sectionId": "data-transform-and-visualization",
+      "title": "JSON to TypeScript",
+      "url": "https://quicktype.io/typescript",
+      "description": "Instantly generate TypeScript interfaces from JSON.",
+      "descriptionHtml": "<p>Instantly generate TypeScript interfaces from JSON.</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "jwt-io",
+      "sectionId": "data-transform-and-visualization",
+      "title": "JWT.io",
+      "url": "https://jwt.io/",
+      "description": "JSON Web Token (JWT) Debugger",
+      "descriptionHtml": "<p>JSON Web Token (JWT) Debugger</p>",
+      "order": 5,
+      "tags": []
+    },
+    {
+      "id": "mr-data-converter",
+      "sectionId": "data-transform-and-visualization",
+      "title": "Mr. Data Converter",
+      "url": "https://shancarter.github.io/mr-data-converter/",
+      "description": "Convert spreadsheet data into JSON, XML, SQL and more",
+      "descriptionHtml": "<p>Convert spreadsheet data into JSON, XML, SQL and more</p>",
+      "order": 6,
+      "tags": []
+    },
+    {
+      "id": "quickchart",
+      "sectionId": "data-transform-and-visualization",
+      "title": "QuickChart",
+      "url": "https://quickchart.io/sandbox",
+      "description": "API for generating charts and visualizations via URL",
+      "descriptionHtml": "<p>API for generating charts and visualizations via URL</p>",
+      "order": 7,
+      "tags": []
+    },
+    {
+      "id": "dbdiagram-io",
+      "sectionId": "diagrams",
+      "title": "dbdiagram.io",
+      "url": "https://dbdiagram.io/d",
+      "description": "Draw Entity-Relationship Diagrams, Painlessly",
+      "descriptionHtml": "<p>Draw Entity-Relationship Diagrams, Painlessly</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "excalidraw",
+      "sectionId": "diagrams",
+      "title": "Excalidraw",
+      "url": "https://excalidraw.com/",
+      "description": "Create sketch hand-drawn-like diagrams",
+      "descriptionHtml": "<p>Create sketch hand-drawn-like diagrams</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "fossflow",
+      "sectionId": "diagrams",
+      "title": "FossFLOW",
+      "url": "https://stan-smith.github.io/FossFLOW/",
+      "description": "Create isometric diagrams and illustrations in the browser; an open-source isometric diagramming tool",
+      "descriptionHtml": "<p>Create isometric diagrams and illustrations in the browser; an open-source isometric diagramming tool</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "gitdiagram",
+      "sectionId": "diagrams",
+      "title": "GitDiagram",
+      "url": "https://gitdiagram.com/",
+      "description": "Generate visual diagrams to represent Git branches and commit history.",
+      "descriptionHtml": "<p>Generate visual diagrams to represent Git branches and commit history.</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "markmap",
+      "sectionId": "diagrams",
+      "title": "Markmap",
+      "url": "https://markmap.js.org/repl",
+      "description": "Build interactive mindmaps using markdown",
+      "descriptionHtml": "<p>Build interactive mindmaps using markdown</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "mermaid-live-editor",
+      "sectionId": "diagrams",
+      "title": "Mermaid live editor",
+      "url": "https://mermaid-js.github.io/mermaid-live-editor/edit",
+      "description": "Create and share diagrams using markdown language",
+      "descriptionHtml": "<p>Create and share diagrams using markdown language</p>",
+      "order": 5,
+      "tags": []
+    },
+    {
+      "id": "mind-meister",
+      "sectionId": "diagrams",
+      "title": "Mind Meister",
+      "url": "https://www.mindmeister.com/",
+      "description": "Tools for easily create mind maps",
+      "descriptionHtml": "<p>Tools for easily create mind maps</p>",
+      "order": 6,
+      "tags": []
+    },
+    {
+      "id": "advanced-bash-scripting-guide",
+      "sectionId": "guides",
+      "title": "Advanced Bash-Scripting Guide",
+      "url": "https://tldp.org/LDP/abs/html/",
+      "description": "An in-depth exploration of the art of shell scripting",
+      "descriptionHtml": "<p>An in-depth exploration of the art of shell scripting</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "easing-functions-cheat-sheet",
+      "sectionId": "guides",
+      "title": "Easing Functions Cheat Sheet",
+      "url": "https://easings.net/",
+      "description": "Explanation and demonstrations of numerous easing functions",
+      "descriptionHtml": "<p>Explanation and demonstrations of numerous easing functions</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "carbon",
+      "sectionId": "image-manipulation",
+      "title": "Carbon",
+      "url": "https://carbon.now.sh",
+      "description": "Create beautiful images of your source code for sharing",
+      "descriptionHtml": "<p>Create beautiful images of your source code for sharing</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "cleanup-pictures",
+      "sectionId": "image-manipulation",
+      "title": "Cleanup Pictures",
+      "url": "https://cleanup.pictures/",
+      "description": "Remove unwanted objects from photos",
+      "descriptionHtml": "<p>Remove unwanted objects from photos</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "favicon-io",
+      "sectionId": "image-manipulation",
+      "title": "favicon.io",
+      "url": "https://favicon.io/",
+      "description": "Create favicons using text, images or emojis",
+      "descriptionHtml": "<p>Create favicons using text, images or emojis</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "image-resizer",
+      "sectionId": "image-manipulation",
+      "title": "Image Resizer",
+      "url": "https://imageresizer.com/",
+      "description": "Resize images online without loss of quality",
+      "descriptionHtml": "<p>Resize images online without loss of quality</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "remove-bg",
+      "sectionId": "image-manipulation",
+      "title": "Remove.bg",
+      "url": "https://www.remove.bg/pt-br/upload",
+      "description": "Remove image backgrounds automatically",
+      "descriptionHtml": "<p>Remove image backgrounds automatically</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "squish",
+      "sectionId": "image-manipulation",
+      "title": "Squish",
+      "url": "https://squish.addy.ie/",
+      "description": "Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh",
+      "descriptionHtml": "<p>Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh</p>",
+      "order": 5,
+      "tags": []
+    },
+    {
+      "id": "svgomg",
+      "sectionId": "image-manipulation",
+      "title": "SVGOMG",
+      "url": "https://jakearchibald.github.io/svgomg/",
+      "description": "Optimize and minify SVG files easily with a user-friendly interface",
+      "descriptionHtml": "<p>Optimize and minify SVG files easily with a user-friendly interface</p>",
+      "order": 6,
+      "tags": []
+    },
+    {
+      "id": "svg-optimizer",
+      "sectionId": "image-manipulation",
+      "title": "SVG Optimizer",
+      "url": "https://svgoptimizer.com/",
+      "description": "Minify svg files",
+      "descriptionHtml": "<p>Minify svg files</p>",
+      "order": 7,
+      "tags": []
+    },
+    {
+      "id": "svg-to-png",
+      "sectionId": "image-manipulation",
+      "title": "SVG to PNG",
+      "url": "https://svgtopng.com/",
+      "description": "Converts svg files to png",
+      "descriptionHtml": "<p>Converts svg files to png</p>",
+      "order": 8,
+      "tags": []
+    },
+    {
+      "id": "svg-viewer",
+      "sectionId": "image-manipulation",
+      "title": "SVG Viewer",
+      "url": "https://www.svgviewer.dev/",
+      "description": "SVG to png, react, data uri and more",
+      "descriptionHtml": "<p>SVG to png, react, data uri and more</p>",
+      "order": 9,
+      "tags": []
+    },
+    {
+      "id": "tiny-png",
+      "sectionId": "image-manipulation",
+      "title": "Tiny png",
+      "url": "https://tinypng.com/",
+      "description": "Minify jpg, png and webp images",
+      "descriptionHtml": "<p>Minify jpg, png and webp images</p>",
+      "order": 10,
+      "tags": []
+    },
+    {
+      "id": "autoregex",
+      "sectionId": "regex",
+      "title": "AutoRegex",
+      "url": "https://www.autoregex.xyz/",
+      "description": "Convert from English to RegEx with Natural Language Processing",
+      "descriptionHtml": "<p>Convert from English to RegEx with Natural Language Processing</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "debuggex",
+      "sectionId": "regex",
+      "title": "Debuggex",
+      "url": "https://www.debuggex.com/",
+      "description": "Visual tool for building and debugging regular expressions",
+      "descriptionHtml": "<p>Visual tool for building and debugging regular expressions</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "regex101",
+      "sectionId": "regex",
+      "title": "Regex101",
+      "url": "https://regex101.com/",
+      "description": "Build, test and debug regular expressions",
+      "descriptionHtml": "<p>Build, test and debug regular expressions</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "regexper",
+      "sectionId": "regex",
+      "title": "Regexper",
+      "url": "https://regexper.com/",
+      "description": "Visualize regular expressions",
+      "descriptionHtml": "<p>Visualize regular expressions</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "regexr",
+      "sectionId": "regex",
+      "title": "Regexr",
+      "url": "https://regexr.com/",
+      "description": "Create and test regular expressions (alternative to regex101)",
+      "descriptionHtml": "<p>Create and test regular expressions (alternative to regex101)</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "google-colab",
+      "sectionId": "repl",
+      "title": "Google Colab",
+      "url": "https://colab.research.google.com/",
+      "description": "Run Python snippets online",
+      "descriptionHtml": "<p>Run Python snippets online</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "jasmine-template-for-codepen",
+      "sectionId": "repl",
+      "title": "Jasmine template for Codepen",
+      "url": "https://codepen.io/teles/pen/aKrBrg",
+      "description": "Template for using Jasmine on codepen",
+      "descriptionHtml": "<p>Template for using Jasmine on codepen</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "php-cli",
+      "sectionId": "repl",
+      "title": "PHP CLI",
+      "url": "https://replit.com/languages/php_cli",
+      "description": "Compile and test PHP code",
+      "descriptionHtml": "<p>Compile and test PHP code</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "prettier-playground",
+      "sectionId": "repl",
+      "title": "Prettier Playground",
+      "url": "https://prettier.io/playground/",
+      "description": "Online tool for automatic code formatting",
+      "descriptionHtml": "<p>Online tool for automatic code formatting</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "typescript-playground",
+      "sectionId": "repl",
+      "title": "Typescript playground",
+      "url": "https://www.typescriptlang.org/play",
+      "description": "Typescript online REPL",
+      "descriptionHtml": "<p>Typescript online REPL</p>",
+      "order": 4,
+      "tags": []
+    },
+    {
+      "id": "asciinema",
+      "sectionId": "screen-recording",
+      "title": "asciinema",
+      "url": "https://asciinema.org/",
+      "description": "Record and share terminal sessions",
+      "descriptionHtml": "<p>Record and share terminal sessions</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "bulk-redirect-checker-tool",
+      "sectionId": "seo",
+      "title": "Bulk Redirect Checker Tool",
+      "url": "https://www.redirect-checker.org/bulk-redirect-checker.php",
+      "description": "Check multiple redirects",
+      "descriptionHtml": "<p>Check multiple redirects</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "linkedin-post-checker",
+      "sectionId": "seo",
+      "title": "LinkedIn Post Checker",
+      "url": "https://www.linkedin.com/post-inspector/inspect/teles.dev.br",
+      "description": "Check metadata for your page",
+      "descriptionHtml": "<p>Check metadata for your page</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "rich-results",
+      "sectionId": "seo",
+      "title": "Rich Results",
+      "url": "https://search.google.com/test/rich-results",
+      "description": "Check your structured data",
+      "descriptionHtml": "<p>Check your structured data</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "convertio",
+      "sectionId": "text-manipulation",
+      "title": "Convertio",
+      "url": "https://convertio.co/pt/",
+      "description": "File conversion, including CSV, JSON, XML, and more",
+      "descriptionHtml": "<p>File conversion, including CSV, JSON, XML, and more</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "emojipedia",
+      "sectionId": "text-manipulation",
+      "title": "Emojipedia",
+      "url": "https://emojipedia.org/",
+      "description": "Emojis list for copy and paste",
+      "descriptionHtml": "<p>Emojis list for copy and paste</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "markdown-to-ast-textlint",
+      "sectionId": "text-manipulation",
+      "title": "markdown-to-ast (textlint)",
+      "url": "https://textlint.org/markdown-to-ast/example/",
+      "description": "Convert Markdown into an AST (Abstract Syntax Tree); useful for programmatic analysis, validation, or transformation of Markdown documents.",
+      "descriptionHtml": "<p>Convert Markdown into an AST (Abstract Syntax Tree); useful for programmatic analysis, validation, or transformation of Markdown documents.</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
+      "id": "remove-duplicated-lines",
+      "sectionId": "text-manipulation",
+      "title": "Remove duplicated lines",
+      "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php",
+      "description": "Remove duplicated lines and sort text lines",
+      "descriptionHtml": "<p>Remove duplicated lines and sort text lines</p>",
+      "order": 3,
+      "tags": []
+    },
+    {
+      "id": "cors-test",
+      "sectionId": "web-development-utilities",
+      "title": "CORS Test",
+      "url": "https://cors-test.codehappy.dev/",
+      "description": "Check CORS support on APIs and servers instantly.",
+      "descriptionHtml": "<p>Check CORS support on APIs and servers instantly.</p>",
+      "order": 0,
+      "tags": []
+    },
+    {
+      "id": "mocky-designer",
+      "sectionId": "web-development-utilities",
+      "title": "Mocky Designer",
+      "url": "https://designer.mocky.io/design",
+      "description": "Create and customize mock APIs instantly, with options to design and share JSON responses.",
+      "descriptionHtml": "<p>Create and customize mock APIs instantly, with options to design and share JSON responses.</p>",
+      "order": 1,
+      "tags": []
+    },
+    {
+      "id": "reqbin",
+      "sectionId": "web-development-utilities",
+      "title": "ReqBin",
+      "url": "https://reqbin.com/",
+      "description": "Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.",
+      "descriptionHtml": "<p>Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.</p>",
+      "order": 2,
+      "tags": []
+    }
+  ]
+}
