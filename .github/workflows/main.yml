@@ -1,23 +1,52 @@
-on: [push]
+name: Build awesome-pages artifacts
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  parse_to_bookmarks:
+  build-artifacts:
     runs-on: ubuntu-latest
-    name: Export README to json, csv and bookmarks
+
     steps:
-        - uses: teles/readme-converter-action@v0.4.2
-          with:
-            input: README.md
-            output: dist/bookmarks.html
-        - uses: teles/readme-converter-action@v0.4.2
-          with:
-            type: csv
-            input: README.md
-            output: dist/links.csv
-        - uses: teles/readme-converter-action@v0.4.2
-          with:
-            type: json
-            input: README.md
-            output: dist/links.json
-            commit_branch: main
-            commit_message: Updates JSON file
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate awesome-pages artifacts from README
+        uses: awesome-pages/parser-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # YAML list of source specs
+          sources: |
+            - from:
+                - README.md
+              outputs:
+                - artifact: domain
+                  to: _data/{name}.domain.json
+                - artifact: index
+                  to: _data/{name}.index.json
+                - artifact: bookmarks
+                  to: _data/{name}.bookmarks.html
+                - artifact: sitemap
+                  to: _data/{name}.sitemap.xml
+                - artifact: rss-json
+                  to: _data/{name}.rss.json
+                - artifact: rss-xml
+                  to: _data/{name}.rss.xml
+
+      - name: Commit and push _data changes
+        run: |
+          if [ -n "$(git status --porcelain _data)" ]; then
+            echo "Changes detected in _data, committing..."
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add _data
+            git commit -m "chore: update awesome-pages artifacts in _data"
+            git push
+          else
+            echo "No changes in _data; skipping commit."
+          fi
