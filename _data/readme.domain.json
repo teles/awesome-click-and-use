@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "meta": {
     "title": "Awesome Click and Use",
-    "generatedAt": "2025-11-10T16:54:39.899Z",
+    "generatedAt": "2025-12-15T21:28:14.746Z",
     "source": "local:/home/runner/work/awesome-click-and-use/awesome-click-and-use/README.md",
     "language": "en"
   },
@@ -548,13 +548,23 @@
       "tags": []
     },
     {
+      "id": "redos-checker",
+      "sectionId": "regex",
+      "title": "ReDos checker",
+      "url": "https://devina.io/redos-checker",
+      "description": "Examine regular expressions for potential Denial of Service vulnerabilities",
+      "descriptionHtml": "<p>Examine regular expressions for potential Denial of Service vulnerabilities</p>",
+      "order": 2,
+      "tags": []
+    },
+    {
       "id": "regex101",
       "sectionId": "regex",
       "title": "Regex101",
       "url": "https://regex101.com/",
       "description": "Build, test and debug regular expressions",
       "descriptionHtml": "<p>Build, test and debug regular expressions</p>",
-      "order": 2,
+      "order": 3,
       "tags": []
     },
     {
@@ -564,7 +574,7 @@
       "url": "https://regexper.com/",
       "description": "Visualize regular expressions",
       "descriptionHtml": "<p>Visualize regular expressions</p>",
-      "order": 3,
+      "order": 4,
       "tags": []
     },
     {
@@ -574,7 +584,7 @@
       "url": "https://regexr.com/",
       "description": "Create and test regular expressions (alternative to regex101)",
       "descriptionHtml": "<p>Create and test regular expressions (alternative to regex101)</p>",
-      "order": 4,
+      "order": 5,
       "tags": []
     },
     {

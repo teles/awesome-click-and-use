@@ -7,427 +7,434 @@
       "url": "https://chat.openai.com/chat",
       "title": "ChatGPT",
       "content_text": "Dialogue optimized model",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "gitingest",
       "url": "https://gitingest.com/",
       "title": "GitIngest",
       "content_text": "AI-powered tool to query and analyze your Git repositories for insights and understanding.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "notebooklm",
       "url": "https://notebooklm.google.com/",
       "title": "NotebookLM",
       "content_text": "AI-powered tool from Google for creating structured notes and assisting with research.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "color-designer",
       "url": "https://colordesigner.io/",
       "title": "Color Designer",
       "content_text": "Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "colors-stacks",
       "url": "https://lokeshdhakar.com/projects/color-stacks/",
       "title": "Colors stacks",
       "content_text": "A color palette generator for design systems",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "kigen-color",
       "url": "https://kigen.design/color",
       "title": "Kigen Color",
       "content_text": "Color palette generator and design tool",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "tailwind-css-color-generator",
       "url": "https://uicolors.app/create",
       "title": "Tailwind CSS Color Generator",
       "content_text": "Tool for generating and customizing Tailwind color palettes; includes paid features",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "beautiful-css-box-shadow-examples",
       "url": "https://getcssscan.com/css-box-shadow-examples",
       "title": "Beautiful CSS box-shadow examples",
       "content_text": "Box shadow examples to copy",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "clippy",
       "url": "https://bennettfeely.com/clippy/",
       "title": "Clippy",
       "content_text": "A tool for creating and copying custom CSS shapes using .",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "css-loaders",
       "url": "https://css-loaders.com/classic/",
       "title": "CSS Loaders",
       "content_text": "Pre-made CSS loaders that you can copy and customize for your projects.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "fancy-border-radius",
       "url": "https://9elements.github.io/fancy-border-radius/",
       "title": "Fancy Border Radius",
       "content_text": "Interactive tool for creating complex border-radius shapes with CSS.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "neumorphism-io",
       "url": "https://neumorphism.io/#e0e0e0",
       "title": "Neumorphism.io",
       "content_text": "Generate and copy CSS for neumorphic designs.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "csv-to-json",
       "url": "https://csvjson.com/",
       "title": "CSV to JSON",
       "content_text": "Transform CSV content to JSON arrays",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "diffchecker",
       "url": "https://www.diffchecker.com/",
       "title": "DiffChecker",
       "content_text": "Compare two different files line by line",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "json-crack",
       "url": "https://jsoncrack.com/",
       "title": "JSON Crack",
       "content_text": "Visualize your JSON data instantly into graphs",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "json-to-csv",
       "url": "https://csvjson.com/json2csv",
       "title": "JSON to CSV",
       "content_text": "Transform JSON data to CSV file",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "json-to-typescript",
       "url": "https://quicktype.io/typescript",
       "title": "JSON to TypeScript",
       "content_text": "Instantly generate TypeScript interfaces from JSON.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "jwt-io",
       "url": "https://jwt.io/",
       "title": "JWT.io",
       "content_text": "JSON Web Token (JWT) Debugger",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "mr-data-converter",
       "url": "https://shancarter.github.io/mr-data-converter/",
       "title": "Mr. Data Converter",
       "content_text": "Convert spreadsheet data into JSON, XML, SQL and more",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "quickchart",
       "url": "https://quickchart.io/sandbox",
       "title": "QuickChart",
       "content_text": "API for generating charts and visualizations via URL",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "dbdiagram-io",
       "url": "https://dbdiagram.io/d",
       "title": "dbdiagram.io",
       "content_text": "Draw Entity-Relationship Diagrams, Painlessly",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "excalidraw",
       "url": "https://excalidraw.com/",
       "title": "Excalidraw",
       "content_text": "Create sketch hand-drawn-like diagrams",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "fossflow",
       "url": "https://stan-smith.github.io/FossFLOW/",
       "title": "FossFLOW",
       "content_text": "Create isometric diagrams and illustrations in the browser; an open-source isometric diagramming tool",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "gitdiagram",
       "url": "https://gitdiagram.com/",
       "title": "GitDiagram",
       "content_text": "Generate visual diagrams to represent Git branches and commit history.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "markmap",
       "url": "https://markmap.js.org/repl",
       "title": "Markmap",
       "content_text": "Build interactive mindmaps using markdown",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "mermaid-live-editor",
       "url": "https://mermaid-js.github.io/mermaid-live-editor/edit",
       "title": "Mermaid live editor",
       "content_text": "Create and share diagrams using markdown language",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "mind-meister",
       "url": "https://www.mindmeister.com/",
       "title": "Mind Meister",
       "content_text": "Tools for easily create mind maps",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "advanced-bash-scripting-guide",
       "url": "https://tldp.org/LDP/abs/html/",
       "title": "Advanced Bash-Scripting Guide",
       "content_text": "An in-depth exploration of the art of shell scripting",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "easing-functions-cheat-sheet",
       "url": "https://easings.net/",
       "title": "Easing Functions Cheat Sheet",
       "content_text": "Explanation and demonstrations of numerous easing functions",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "carbon",
       "url": "https://carbon.now.sh",
       "title": "Carbon",
       "content_text": "Create beautiful images of your source code for sharing",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "cleanup-pictures",
       "url": "https://cleanup.pictures/",
       "title": "Cleanup Pictures",
       "content_text": "Remove unwanted objects from photos",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "favicon-io",
       "url": "https://favicon.io/",
       "title": "favicon.io",
       "content_text": "Create favicons using text, images or emojis",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "image-resizer",
       "url": "https://imageresizer.com/",
       "title": "Image Resizer",
       "content_text": "Resize images online without loss of quality",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "remove-bg",
       "url": "https://www.remove.bg/pt-br/upload",
       "title": "Remove.bg",
       "content_text": "Remove image backgrounds automatically",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "squish",
       "url": "https://squish.addy.ie/",
       "title": "Squish",
       "content_text": "Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "svgomg",
       "url": "https://jakearchibald.github.io/svgomg/",
       "title": "SVGOMG",
       "content_text": "Optimize and minify SVG files easily with a user-friendly interface",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "svg-optimizer",
       "url": "https://svgoptimizer.com/",
       "title": "SVG Optimizer",
       "content_text": "Minify svg files",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "svg-to-png",
       "url": "https://svgtopng.com/",
       "title": "SVG to PNG",
       "content_text": "Converts svg files to png",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "svg-viewer",
       "url": "https://www.svgviewer.dev/",
       "title": "SVG Viewer",
       "content_text": "SVG to png, react, data uri and more",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "tiny-png",
       "url": "https://tinypng.com/",
       "title": "Tiny png",
       "content_text": "Minify jpg, png and webp images",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "autoregex",
       "url": "https://www.autoregex.xyz/",
       "title": "AutoRegex",
       "content_text": "Convert from English to RegEx with Natural Language Processing",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "debuggex",
       "url": "https://www.debuggex.com/",
       "title": "Debuggex",
       "content_text": "Visual tool for building and debugging regular expressions",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
+    },
+    {
+      "id": "redos-checker",
+      "url": "https://devina.io/redos-checker",
+      "title": "ReDos checker",
+      "content_text": "Examine regular expressions for potential Denial of Service vulnerabilities",
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "regex101",
       "url": "https://regex101.com/",
       "title": "Regex101",
       "content_text": "Build, test and debug regular expressions",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "regexper",
       "url": "https://regexper.com/",
       "title": "Regexper",
       "content_text": "Visualize regular expressions",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "regexr",
       "url": "https://regexr.com/",
       "title": "Regexr",
       "content_text": "Create and test regular expressions (alternative to regex101)",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "google-colab",
       "url": "https://colab.research.google.com/",
       "title": "Google Colab",
       "content_text": "Run Python snippets online",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "jasmine-template-for-codepen",
       "url": "https://codepen.io/teles/pen/aKrBrg",
       "title": "Jasmine template for Codepen",
       "content_text": "Template for using Jasmine on codepen",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "php-cli",
       "url": "https://replit.com/languages/php_cli",
       "title": "PHP CLI",
       "content_text": "Compile and test PHP code",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "prettier-playground",
       "url": "https://prettier.io/playground/",
       "title": "Prettier Playground",
       "content_text": "Online tool for automatic code formatting",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "typescript-playground",
       "url": "https://www.typescriptlang.org/play",
       "title": "Typescript playground",
       "content_text": "Typescript online REPL",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "asciinema",
       "url": "https://asciinema.org/",
       "title": "asciinema",
       "content_text": "Record and share terminal sessions",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "bulk-redirect-checker-tool",
       "url": "https://www.redirect-checker.org/bulk-redirect-checker.php",
       "title": "Bulk Redirect Checker Tool",
       "content_text": "Check multiple redirects",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "linkedin-post-checker",
       "url": "https://www.linkedin.com/post-inspector/inspect/teles.dev.br",
       "title": "LinkedIn Post Checker",
       "content_text": "Check metadata for your page",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "rich-results",
       "url": "https://search.google.com/test/rich-results",
       "title": "Rich Results",
       "content_text": "Check your structured data",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "convertio",
       "url": "https://convertio.co/pt/",
       "title": "Convertio",
       "content_text": "File conversion, including CSV, JSON, XML, and more",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "emojipedia",
       "url": "https://emojipedia.org/",
       "title": "Emojipedia",
       "content_text": "Emojis list for copy and paste",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "markdown-to-ast-textlint",
       "url": "https://textlint.org/markdown-to-ast/example/",
       "title": "markdown-to-ast (textlint)",
       "content_text": "Convert Markdown into an AST (Abstract Syntax Tree); useful for programmatic analysis, validation, or transformation of Markdown documents.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "remove-duplicated-lines",
       "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php",
       "title": "Remove duplicated lines",
       "content_text": "Remove duplicated lines and sort text lines",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "cors-test",
       "url": "https://cors-test.codehappy.dev/",
       "title": "CORS Test",
       "content_text": "Check CORS support on APIs and servers instantly.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "mocky-designer",
       "url": "https://designer.mocky.io/design",
       "title": "Mocky Designer",
       "content_text": "Create and customize mock APIs instantly, with options to design and share JSON responses.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     },
     {
       "id": "reqbin",
       "url": "https://reqbin.com/",
       "title": "ReqBin",
       "content_text": "Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.",
-      "date_published": "2025-11-10T16:54:39.899Z"
+      "date_published": "2025-12-15T21:28:14.746Z"
     }
   ]
 }

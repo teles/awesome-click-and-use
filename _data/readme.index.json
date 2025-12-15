@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "meta": {
     "source": "local:/home/runner/work/awesome-click-and-use/awesome-click-and-use/README.md",
-    "generatedAt": "2025-11-10T16:54:39.899Z",
+    "generatedAt": "2025-12-15T21:28:14.746Z",
     "fieldWeights": {
       "title": 2,
       "description": 1,
@@ -10,8 +10,8 @@
     }
   },
   "stats": {
-    "docs": 61,
-    "terms": 263
+    "docs": 62,
+    "terms": 269
   },
   "docs": {
     "chatgpt": {
@@ -222,6 +222,11 @@
     "debuggex": {
       "title": "Debuggex",
       "url": "https://www.debuggex.com/",
+      "sectionId": "regex"
+    },
+    "redos-checker": {
+      "title": "ReDos checker",
+      "url": "https://devina.io/redos-checker",
       "sectionId": "regex"
     },
     "regex101": {
@@ -1983,6 +1988,10 @@
         "f": 1
       },
       {
+        "id": "redos-checker",
+        "f": 1
+      },
+      {
         "id": "regex101",
         "f": 1
       },
@@ -2001,6 +2010,10 @@
         "f": 1
       },
       {
+        "id": "redos-checker",
+        "f": 1
+      },
+      {
         "id": "regex101",
         "f": 1
       },
@@ -2010,6 +2023,56 @@
       },
       {
         "id": "regexr",
+        "f": 1
+      }
+    ],
+    "redos": [
+      {
+        "id": "redos-checker",
+        "f": 2
+      }
+    ],
+    "checker": [
+      {
+        "id": "redos-checker",
+        "f": 2
+      },
+      {
+        "id": "bulk-redirect-checker-tool",
+        "f": 2
+      },
+      {
+        "id": "linkedin-post-checker",
+        "f": 2
+      }
+    ],
+    "examine": [
+      {
+        "id": "redos-checker",
+        "f": 1
+      }
+    ],
+    "potential": [
+      {
+        "id": "redos-checker",
+        "f": 1
+      }
+    ],
+    "denial": [
+      {
+        "id": "redos-checker",
+        "f": 1
+      }
+    ],
+    "service": [
+      {
+        "id": "redos-checker",
+        "f": 1
+      }
+    ],
+    "vulnerabilities": [
+      {
+        "id": "redos-checker",
         "f": 1
       }
     ],
@@ -2168,16 +2231,6 @@
     "redirect": [
       {
         "id": "bulk-redirect-checker-tool",
-        "f": 2
-      }
-    ],
-    "checker": [
-      {
-        "id": "bulk-redirect-checker-tool",
-        "f": 2
-      },
-      {
-        "id": "linkedin-post-checker",
         "f": 2
       }
     ],
