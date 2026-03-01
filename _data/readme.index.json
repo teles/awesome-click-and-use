@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "meta": {
     "source": "local:/home/runner/work/awesome-click-and-use/awesome-click-and-use/README.md",
-    "generatedAt": "2025-12-15T21:28:14.746Z",
+    "generatedAt": "2026-03-01T22:45:06.564Z",
     "fieldWeights": {
       "title": 2,
       "description": 1,
@@ -10,8 +10,8 @@
     }
   },
   "stats": {
-    "docs": 62,
-    "terms": 269
+    "docs": 63,
+    "terms": 273
   },
   "docs": {
     "chatgpt": {
@@ -323,6 +323,11 @@
       "title": "ReqBin",
       "url": "https://reqbin.com/",
       "sectionId": "web-development-utilities"
+    },
+    "visual-csp": {
+      "title": "Visual CSP",
+      "url": "https://visual-csp.pages.dev/",
+      "sectionId": "web-development-utilities"
     }
   },
   "terms": {
@@ -424,6 +429,10 @@
       {
         "id": "reqbin",
         "f": 1
+      },
+      {
+        "id": "visual-csp",
+        "f": 1
       }
     ],
     "query": [
@@ -463,6 +472,10 @@
     "understanding": [
       {
         "id": "gitingest",
+        "f": 1
+      },
+      {
+        "id": "visual-csp",
         "f": 1
       }
     ],
@@ -972,6 +985,10 @@
       {
         "id": "csv-to-json",
         "f": 1
+      },
+      {
+        "id": "visual-csp",
+        "f": 1
       }
     ],
     "arrays": [
@@ -1359,6 +1376,10 @@
       }
     ],
     "visual": [
+      {
+        "id": "visual-csp",
+        "f": 3
+      },
       {
         "id": "gitdiagram",
         "f": 1
@@ -1974,6 +1995,10 @@
       {
         "id": "debuggex",
         "f": 1
+      },
+      {
+        "id": "visual-csp",
+        "f": 1
       }
     ],
     "debugging": [
@@ -2473,6 +2498,30 @@
     "delete": [
       {
         "id": "reqbin",
+        "f": 1
+      }
+    ],
+    "csp": [
+      {
+        "id": "visual-csp",
+        "f": 3
+      }
+    ],
+    "security": [
+      {
+        "id": "visual-csp",
+        "f": 1
+      }
+    ],
+    "policy": [
+      {
+        "id": "visual-csp",
+        "f": 1
+      }
+    ],
+    "headers": [
+      {
+        "id": "visual-csp",
         "f": 1
       }
     ]
