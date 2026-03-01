@@ -104,3 +104,4 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [CORS Test](https://cors-test.codehappy.dev/) - Check CORS support on APIs and servers instantly.
 - [Mocky Designer](https://designer.mocky.io/design) - Create and customize mock APIs instantly, with options to design and share JSON responses.
 - [ReqBin](https://reqbin.com/) - Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.
+- [Visual CSP](https://visual-csp.pages.dev/) - A visual tool for building and understanding Content Security Policy (CSP) headers.
