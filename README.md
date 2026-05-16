@@ -16,6 +16,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
 - [Kigen Color](https://kigen.design/color) - Color palette generator and design tool
 - [Tailwind CSS Color Generator](https://uicolors.app/create) - Tool for generating and customizing Tailwind color palettes; includes paid features
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/) - Free color palette generator, browser-based, no signup. Part of TinyTools collection.
 
 ## CSS to copy
 
@@ -64,6 +65,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
 - [SVG Viewer](https://www.svgviewer.dev/) - SVG to png, react, data uri and more
 - [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
+- [TinyTools Favicon, OG image & background remover](https://tinytools-smoky.vercel.app/) - Free single-purpose image tools — favicon generator, Open Graph image generator and an AI background remover that runs entirely in the browser. No signup.
 
 ## Regex
 
@@ -91,6 +93,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Bulk Redirect Checker Tool](https://www.redirect-checker.org/bulk-redirect-checker.php) - Check multiple redirects
 - [LinkedIn Post Checker](https://www.linkedin.com/post-inspector/inspect/teles.dev.br) - Check metadata for your page
 - [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
+- [TinyTools SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/) - Free SEO meta tag generator plus an AI robots.txt generator and AI content disclosure generator (EU AI Act compliant). No signup.
 
 ## Text manipulation
 
