@@ -9,6 +9,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [ChatGPT](https://chat.openai.com/chat) - Dialogue optimized model
 - [GitIngest](https://gitingest.com/) - AI-powered tool to query and analyze your Git repositories for insights and understanding.
 - [NotebookLM](https://notebooklm.google.com/) - AI-powered tool from Google for creating structured notes and assisting with research.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based AI utilities: AI background remover (runs the model locally in the browser), OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), domain name generator, and AI robots.txt generator. No signup, open source.
 
 ## Colors
 
