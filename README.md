@@ -64,6 +64,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
 - [SVG Viewer](https://www.svgviewer.dev/) - SVG to png, react, data uri and more
 - [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free on-device AI background remover (WebAssembly, no upload), favicon generator, OG image generator, color palette generator, and more. No signup.
 
 ## Regex
 
@@ -91,6 +92,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Bulk Redirect Checker Tool](https://www.redirect-checker.org/bulk-redirect-checker.php) - Check multiple redirects
 - [LinkedIn Post Checker](https://www.linkedin.com/post-inspector/inspect/teles.dev.br) - Check metadata for your page
 - [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, AI robots.txt generator (EU AI Act compliant), and OG image generator. No signup.
 
 ## Text manipulation
 
