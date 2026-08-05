@@ -46,6 +46,10 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
 - [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps
 
+## Documents
+
+- [Signature Maker](https://nutilz.com/signature-maker) - Draw, type, or upload a signature and download it as a transparent PNG for contracts, invoices, and PDFs
+
 ## Guides
 
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
