@@ -53,6 +53,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 
 ## Image manipulation
 
+- [Metadata Remover](https://metadataremover.ai/) - Inspect and remove image metadata locally in the browser; no signup required.
 - [Carbon](https://carbon.now.sh) - Create beautiful images of your source code for sharing
 - [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 - [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
