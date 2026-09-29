@@ -56,6 +56,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Carbon](https://carbon.now.sh) - Create beautiful images of your source code for sharing
 - [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 - [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
+- [FileOnTap](https://fileontap.com/) - Free browser-local image/PDF File Converter; processing stays on device, no upload or account.
 - [Image Resizer](https://imageresizer.com/) - Resize images online without loss of quality
 - [Remove.bg](https://www.remove.bg/pt-br/upload) - Remove image backgrounds automatically
 - [Squish](https://squish.addy.ie/) - Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh
