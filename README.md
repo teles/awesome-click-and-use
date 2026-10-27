@@ -57,6 +57,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 - [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 - [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
 - [Image Resizer](https://imageresizer.com/) - Resize images online without loss of quality
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert images (PNG/JPG/HEIC/WebP/AVIF) in the browser; core processing stays on-device
 - [Remove.bg](https://www.remove.bg/pt-br/upload) - Remove image backgrounds automatically
 - [Squish](https://squish.addy.ie/) - Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Optimize and minify SVG files easily with a user-friendly interface
